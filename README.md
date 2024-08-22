@@ -1,10 +1,10 @@
 # Install_TailwindCSS
 
-###Using CLI
+
 
 ---
 
-Install process with CLI
+### Install process with CLI
 
 1. **Create Folders**:  
    - Dist => Contains `index.html` and `Output.css` (automatically created by the command).  
